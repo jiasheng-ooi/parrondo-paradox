@@ -1,4 +1,8 @@
 # parrondo-paradox
+
+![alt text](https://github.com/jiasheng-ooi/parrondo-paradox/blob/main/SHARP%20Project%20Poster.png)
+
+
 Part 1:
 Simulate parrondo paradox for losing games
 
